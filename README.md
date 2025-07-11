@@ -35,8 +35,7 @@ This will start the script automatically in the background on login.
 
 
 ---
-
-###Configuration
+### Configuration
 
 By default, the script adjusts volumes for the following applications:
 
@@ -56,7 +55,7 @@ Note: This project depends on HeadsetControl, which is licensed under GPL. This 
 
 ---
 
-Credits
+### Credits
 
 Developed by seraphine
 
