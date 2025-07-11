@@ -1,4 +1,4 @@
-# ChatMixForLinux
+8# ChatMixForLinux
 Adds **ChatMix functionality** which was originally only available through SteelSeries' GG app to Linux. It works on some SteelSeries headsets using [HeadsetControl](https://github.com/Sapd/HeadsetControl), and allows the user to quickly adjust the volume of game and communication applications so the user can focus on one of them if needed.
 Is this code well written? probably not. Does it work? Yes.
 
@@ -52,6 +52,7 @@ There is also an option for the ChatMix feature only to work while you are in a 
 
 
 I made this script with my Arctis Nova 7X, but it should work with any Headsets which are supported by HeadsetControl
+
 ---
 
 ### Credits
