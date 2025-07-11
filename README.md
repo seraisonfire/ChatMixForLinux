@@ -21,7 +21,7 @@ Adds **ChatMix functionality** which was originally only available through Steel
 
 Run the script directly:
 
-python chatmix.py
+`python chatmix.py`
 
 Or install and enable the systemd user service:
 ```
@@ -36,20 +36,19 @@ This will start the script automatically in the background on login.
 
 ---
 
-Configuration
+##Configuration
 
 By default, the script adjusts volumes for the following applications:
 
-Communication (e.g., Discord)
+- Communication (e.g., Discord)
 
-Everything else (with exceptions being able to be added in the corresponding array.
+- Everything else (with exceptions being able to be added in the corresponding array.
 
 > By default, only Discord is added as a communication app, with exceptions for everything else.
 > A tutorial on how to add more is in the python file.
 
 There is also an option for the ChatMix feature only to work while you are in a voice chat with somebody, and if you aren't, the wheel on the headset will not work. It is enabled by default.
 ---
-
 
 Note: This project depends on HeadsetControl, which is licensed under GPL. This script only calls it as a CLI dependency and does not include or modify its code.
 
