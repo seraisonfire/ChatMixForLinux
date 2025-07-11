@@ -28,7 +28,8 @@ Or install and enable the systemd user service:
 ```
 cp service-files/chatmix.service ~/.config/systemd/user/chatmix.service
 systemctl --user daemon-reload
-systemctl --user enable --now chatmix.service
+systemctl --user enable chatmix.service
+systemctl --user start chatmix.service
 ```
 > The path to chatmix.py has to be specified in `chatmix.service` or else it will not work.
 
