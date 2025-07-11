@@ -57,6 +57,5 @@ Developed by seraphine
 
 Inspired by and depends on HeadsetControl by Sapd, without his project this would not have been possible.
 
-I made this script for myself, but i hope other people will find it useful too
-
+I made this script for myself, but i hope other people will find it useful too; if you did find this useful, please consider starring this repo as I crave dopamine
 
