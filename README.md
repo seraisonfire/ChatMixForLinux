@@ -50,6 +50,8 @@ By default, the script adjusts volumes for the following applications:
 
 There is also an option for the ChatMix feature only to work while you are in a voice chat with somebody, and if you aren't, the wheel on the headset will not work. It is enabled by default.
 
+
+I made this script with my Arctis Nova 7X, but it should work with any Headsets which are supported by HeadsetControl
 ---
 
 ### Credits
