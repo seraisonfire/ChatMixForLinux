@@ -1,6 +1,6 @@
 # ChatMixForLinux
 Adds **ChatMix functionality** which was originally only available through SteelSeries' GG app to Linux. It works on some SteelSeries headsets using [HeadsetControl](https://github.com/Sapd/HeadsetControl), and allows the user to quickly adjust the volume of game and communication applications so the user can focus on one of them if needed.
-Is this code well written? propably not. Does it work? Yes.
+Is this code well written? probably not. Does it work? Yes.
 
 ---
 
