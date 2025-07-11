@@ -51,17 +51,12 @@ There is also an option for the ChatMix feature only to work while you are in a 
 
 ---
 
-Note: This project depends on HeadsetControl, which is licensed under GPL. This script only calls it as a CLI dependency and does not include or modify its code.
-
-
----
-
 ### Credits
 
 Developed by seraphine
 
 Inspired by and depends on HeadsetControl by Sapd, without his project this would not have been possible.
 
-
+I made this script for myself, but i hope other people will find it useful too
 
 
