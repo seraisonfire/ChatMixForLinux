@@ -29,6 +29,8 @@ cp service-files/chatmix.service ~/.config/systemd/user/chatmix.service
 systemctl --user daemon-reload
 systemctl --user enable --now chatmix.service
 ```
+> The path to chatmix.py has to be specified in `chatmix.service` or else it will not work.
+
 This will start the script automatically in the background on login. 
 
 
