@@ -20,10 +20,11 @@ game_exceptions = (
 
 
 volume = None
+comms_streams_exist = None
 
 # Option in case you don't want the chatmix to work when you aren't chatting
 ONLY_RUN_WHEN_COMMS = True
-comms_streams_exist = None
+
 
 def get_chatmix_value():
     try:
