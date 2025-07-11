@@ -96,11 +96,11 @@ def calculate_volumes(chatmix_value):
     chatmix_value = max(0, min(128, chatmix_value))
 
     if chatmix_value <= 64:
-        game_volume = (chatmix_value / 64) * 100
-        comms_volume = 100
-    else:
+        comms_volume = (chatmix_value / 64) * 100
         game_volume = 100
-        comms_volume = ((128 - chatmix_value) / 64) * 100
+    else:
+        comms_volume = 100
+        game_volume = ((128 - chatmix_value) / 64) * 100
 
     return [round(game_volume), round(comms_volume)]
 
