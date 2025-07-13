@@ -43,7 +43,7 @@ By default, the script adjusts volumes for the following applications:
 
 - Communication (e.g., Discord)
 
-- Everything else (with exceptions being able to be added in the corresponding array.
+- Everything else (with exceptions being able to be added in the corresponding array.)
 
 > By default, only Discord is added as a communication app, with no exceptions for everything else.
 > A tutorial on how to add more is in the python file.
