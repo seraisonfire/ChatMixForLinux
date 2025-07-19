@@ -16,6 +16,7 @@ Is this code well written? probably not. Does it work? Yes.
 - Python 3.5+
 - [HeadsetControl](https://github.com/Sapd/HeadsetControl)
 - PipeWire with WirePlumber
+- Jq
 
 ---
 ### Usage
